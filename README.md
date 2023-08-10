@@ -43,3 +43,4 @@ Disclaimer
 ```
                                                                                           The use of the selfkiller is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 ```
+# virus-total
